@@ -161,7 +161,7 @@ header nav ul li a {
 header .hero {
   display: flex;
   background-color: var(--negro-texto);
-  background-image: url(/img/hero-fondo.svg);
+  background-image: url(/goprompt/img/hero-fondo.svg);
   background-position: center;
   background-repeat: no-repeat;
   padding: 2rem 1rem;
