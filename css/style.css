@@ -14,7 +14,7 @@
 
 /* movil */
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 400px) {
   .hero {
     height: 90vh;
   }
@@ -84,7 +84,7 @@
 
 /* desktop */
 
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 401px) {
   .hero {
     align-items: center;
     height: 90vh;
