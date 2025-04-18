@@ -6,7 +6,7 @@ function expandirMenu() {
     // Alternar la clase "activo" en el menú móvil
     menuMovil.classList.toggle("activo");
   
-    // Cambiar la visibilidad de los íconos
+    // Cambiar la visibilidad de los iconos
     const isMenuVisible = menuMovil.classList.contains("activo");
     menuInactivo.style.display = isMenuVisible ? "none" : "flex";
     menuActivo.style.display = isMenuVisible ? "flex" : "none";

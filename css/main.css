@@ -943,7 +943,7 @@ textarea {
   border-radius: 4px;
   padding: 0.75rem;
   outline: none;
-  background: transparent;
+  background-color: var(--blanco);
   margin-bottom: 0.5rem;
   font-size: 1rem;
   width: 100%;
